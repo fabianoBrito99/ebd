@@ -48,6 +48,7 @@ const groupButtons = [
   },
 ];
 
+
 export default function LinkEBD() {
   return (
     <div className={styles.container}>
